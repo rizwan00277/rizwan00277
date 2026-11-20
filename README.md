@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammad Rizwan 👋</h1>
+<h1 align="center">Muhammad Rizwan</h1>
 <h3 align="center">Computer Vision & Deep Learning · Small-Object & Drone Detection</h3>
 
 <p align="center">
@@ -13,29 +13,29 @@
 
 I am a **Research Associate** at the **[AI Technology Centre (AITeC)](https://www.ncp.edu.pk/coe-aitec.php)**, Islamabad, in the Autonomous AI & Decision Support Lab. My research interests are in **computer vision and deep learning**, particularly **small-object detection**.
 
-- 🎓 **MS thesis (PIEAS):** improving YOLOv8 for the detection of small and distant drones
-- 🎯 **Small-object detection:** comparing lightweight YOLO modules across generations ([SD-YOLO](https://rizwan00277.github.io/sd-yolo/)) and a paired RGB–thermal benchmark for small road users
-- ⚙️ **At AITeC:** applying vision methods on robots and drones (robot localization, RL navigation, indoor drone flight)
+- **MS thesis (PIEAS):** improving YOLOv8 for the detection of small and distant drones
+- **Small-object detection:** comparing lightweight YOLO modules across generations ([SD-YOLO](https://rizwan00277.github.io/sd-yolo/)) and a paired RGB–thermal benchmark for small road users
+- **At AITeC:** applying vision methods on robots and drones (robot localization, RL navigation, indoor drone flight)
 
 **Research interests:** small-object detection · efficient detectors · RGB–thermal perception · aerial vision
 
-🎓 **MS Computer Science, PIEAS** (Gold Medal, CGPA 3.8/4.0) · **BS Computer Science, GCU Lahore**
+**MS Computer Science, PIEAS** (Gold Medal, CGPA 3.8/4.0) · **BS Computer Science, GCU Lahore**
 
-📢 I am seeking **PhD opportunities starting Fall 2027** in computer vision and deep learning.
+I am seeking **PhD opportunities starting Fall 2027** in computer vision and deep learning.
 
-## 📄 Publications
+## Publications
 
 | Paper | Venue |
 |---|---|
 | **Cross-Generation Small-Drone Detection with Compact YOLO Modules** ([project page](https://rizwan00277.github.io/sd-yolo/)) | Journal · under review |
 | **A Paired RGB-Thermal Benchmark and the MaxSPD-YOLO Detector for Small Road-User Detection** | ICCII 2026 · under review |
-| **Is It PTSD or the Production? Auditing Shortcut Learning in Video-Based PTSD Detection** | ICIC 2026 (IEEE) · ✅ **Accepted** |
+| **Is It PTSD or the Production? Auditing Shortcut Learning in Video-Based PTSD Detection** | ICIC 2026 (IEEE) · **Accepted** |
 | **Synthetic Skeleton Pretraining for Subject-Independent Aerial Gesture Recognition** | ICACS 2027 · under review |
 | **Marker-Free Infrastructure-Based Localization of Multiple Ground Robots with Two Stereo Depth Cameras** | ICACS 2027 · under review |
 
 Full list on my [portfolio](https://rizwan00277.github.io/publications/).
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
