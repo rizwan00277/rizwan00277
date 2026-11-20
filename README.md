@@ -11,7 +11,7 @@
 
 ---
 
-I am a **Research Associate** at the **Autonomous AI & Decision Support Lab (AITeC), National Centre of Physics**, Islamabad. I build autonomous robotic systems end to end, from deep learning models to the hardware they run on.
+I am a **Research Associate** at the **[AI Technology Centre (AITeC)](https://www.ncp.edu.pk/coe-aitec.php)**, Islamabad, in the Autonomous AI & Decision Support Lab. I build autonomous robotic systems end to end, from deep learning models to the hardware they run on.
 
 - 🤖 **Robot learning:** deep RL (Soft Actor-Critic) for mapless navigation and obstacle avoidance, with sim-to-real transfer from Gazebo to TurtleBot 4
 - 👁️ **Perception & localization:** multi-camera stereo tracking of multiple robots, visual SLAM for GPS-denied indoor drone flight
