@@ -11,17 +11,18 @@
 
 ---
 
-I work on **computer vision and deep learning**, with a focus on **small-object detection**: finding targets that cover only a few pixels, such as distant drones or far-away road users. I am a **Research Associate** at the **[AI Technology Centre (AITeC)](https://www.ncp.edu.pk/coe-aitec.php)**, Islamabad.
+I am a **Research Associate** at the **[AI Technology Centre (AITeC)](https://www.ncp.edu.pk/coe-aitec.php)**, Islamabad, in the Autonomous AI & Decision Support Lab. My research interests are in **computer vision and deep learning**, particularly **small-object detection**.
 
-- 🎓 **MS thesis (PIEAS, Gold Medal):** redesigned YOLOv8 for small and distant drones (CIS-YOLOv8)
-- 🎯 **SD-YOLO:** compact detection modules tested across YOLOv8n, YOLO11n and YOLO26n; small-object AP up to +60% ([project page](https://rizwan00277.github.io/sd-yolo/))
-- 🌡️ **RGB–thermal detection:** a paired FLIR ADAS benchmark (52,857 new RGB labels) and MaxSPD-YOLO for small road users
-- 🔍 **Reliable evaluation:** shortcut learning in video-based models and subject-independent benchmarks
-- ⚙️ **Applied vision:** I also deploy these models on real robots and drones (NVIDIA Jetson, ROS 2)
+- 🎓 **MS thesis (PIEAS):** improving YOLOv8 for the detection of small and distant drones
+- 🎯 **Small-object detection:** comparing lightweight YOLO modules across generations ([SD-YOLO](https://rizwan00277.github.io/sd-yolo/)) and a paired RGB–thermal benchmark for small road users
+- 🔍 **Evaluation of deep models:** subject-independent benchmarks and shortcut learning
+- ⚙️ **At AITeC:** applying vision methods on robots and drones (robot localization, RL navigation, indoor drone flight)
 
-🎓 **MS Computer Science, PIEAS** (Gold Medalist, CGPA 3.8/4.0) · **BS Computer Science, GCU Lahore**
+**Research interests:** small-object detection · efficient detectors · RGB–thermal perception · aerial vision · robust evaluation
 
-📢 I am looking for **PhD positions starting Fall 2027** in **computer vision and deep learning**, especially small-object detection, efficient detectors and multimodal perception.
+🎓 **MS Computer Science, PIEAS** (Gold Medal, CGPA 3.8/4.0) · **BS Computer Science, GCU Lahore**
+
+📢 I am seeking **PhD opportunities starting Fall 2027** in computer vision and deep learning.
 
 ## 📄 Publications
 
