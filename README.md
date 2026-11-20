@@ -27,6 +27,7 @@ I am a **Research Associate** at the **Autonomous AI & Decision Support Lab (AIT
 | Paper | Venue |
 |---|---|
 | **Is It PTSD or the Production? Auditing Shortcut Learning in Video-Based PTSD Detection** | ICIC 2026 (IEEE) · ✅ **Accepted** |
+| **Cross-Generation Small-Drone Detection with Compact YOLO Modules** ([project page](https://rizwan00277.github.io/sd-yolo/)) | Journal · under review |
 | **Marker-Free Infrastructure-Based Localization of Multiple Ground Robots with Two Stereo Depth Cameras** | ICACS 2027 · under review |
 | **Synthetic Skeleton Pretraining for Subject-Independent Aerial Gesture Recognition** | ICACS 2027 · under review |
 | **A Paired RGB-Thermal Benchmark and the MaxSPD-YOLO Detector for Small Road-User Detection** | ICCII 2026 · under review |
