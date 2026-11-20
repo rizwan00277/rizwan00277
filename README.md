@@ -15,10 +15,9 @@ I am a **Research Associate** at the **[AI Technology Centre (AITeC)](https://ww
 
 - 🎓 **MS thesis (PIEAS):** improving YOLOv8 for the detection of small and distant drones
 - 🎯 **Small-object detection:** comparing lightweight YOLO modules across generations ([SD-YOLO](https://rizwan00277.github.io/sd-yolo/)) and a paired RGB–thermal benchmark for small road users
-- 🔍 **Evaluation of deep models:** subject-independent benchmarks and shortcut learning
 - ⚙️ **At AITeC:** applying vision methods on robots and drones (robot localization, RL navigation, indoor drone flight)
 
-**Research interests:** small-object detection · efficient detectors · RGB–thermal perception · aerial vision · robust evaluation
+**Research interests:** small-object detection · efficient detectors · RGB–thermal perception · aerial vision
 
 🎓 **MS Computer Science, PIEAS** (Gold Medal, CGPA 3.8/4.0) · **BS Computer Science, GCU Lahore**
 
